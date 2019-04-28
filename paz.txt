@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+The one PAZ.
+The time has come.
+=======
+The one PAZ.
+The time has come.
+>>>>>>> 77d7353f38dd89e677c799a0a092ff2272286dfc
+Now we added a new branch called dev.
